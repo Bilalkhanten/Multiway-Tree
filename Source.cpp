@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "head.h"
 #include<vector>
 #include<string>
 #include<iostream>
